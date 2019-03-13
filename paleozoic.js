@@ -1,3 +1,4 @@
+//modified from https://www.sitepoint.com/simple-javascript-quiz/
 
 (function() {
 	function buildQuiz(){
